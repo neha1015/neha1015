@@ -12,7 +12,7 @@ A passionate Web developer and DSA enthusiast.
 
 ### 🌐 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neha-gupta-371570251/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/neha1015)  
 
 ### 🛠️ Languages and Tools:  
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
@@ -20,20 +20,13 @@ A passionate Web developer and DSA enthusiast.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
 
-### 📊 GitHub Stats:  
+<!--### 📊 GitHub Stats:  
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaGupta&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaGupta&layout=compact&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaGupta&layout=compact&theme=default)  -->
 
 ---
 
-### 🎯 How It Works Without Editing:  
-- **Name**: Replace the name in the banner with your actual banner image later (optional).  
-- **Links**: The current placeholders (LinkedIn, email, GitHub) still look professional without needing immediate edits.  
-- **GitHub Stats**: The stats auto-update when your GitHub username matches your repository name.  
 
----
-
-Just copy and paste this into your **README.md** file, and you're good to go! Let me know if you need further tweaks. 🚀
 
 
 
