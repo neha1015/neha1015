@@ -8,7 +8,7 @@ A passionate Web developer and DSA enthusiast.
 - 🌱 I’m currently learning **React.js** and **DSA**.  
 - 💻 I’m working on **PrepMate ABES** for reliable study materials such as notes,previous year papers,ques bank for my college.  
 - 🤝 Ask me about **JavaScript, Web Development**, or **LeetCode Problems**.  
-- 📫 How to reach me: [nehagupta@example.com](mailto:gupta.neha1015@gmail.com)  
+- 📫 How to reach me: [gupta.neha1015@gmail.com](mailto:gupta.neha1015@gmail.com)  
 
 ### 🌐 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neha-gupta-371570251/)  
